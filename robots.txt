@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://baangufoch.whiletrue0222.com/sitemap.xml
